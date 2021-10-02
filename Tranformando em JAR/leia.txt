@@ -1,0 +1,1 @@
+vai em (run as) --> (maven build...) ---> em (Goals) voce escreve clean package e aperta run
